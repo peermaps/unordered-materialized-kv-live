@@ -1,6 +1,6 @@
 {
   "name": "unordered-materialized-kv-live",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "live-updating materialized view for unordered key/id log messages",
   "keywords": [
     "crdt",
