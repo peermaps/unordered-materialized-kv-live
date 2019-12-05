@@ -10,6 +10,8 @@ where another database is expected to store the actual documents for your
 application and this module only manages linking in order to determine what the
 "heads" or most recent versions, of the documents are.
 
+[unordered-materialized-kv]: https://github.com/digidem/unordered-materialized-kv
+
 # example
 
 ``` js
